@@ -7,5 +7,5 @@ $('#cn').owlCarousel({
 	autoplay:true,		// cho phép tự động chạy
     autoplayTimeout:5000,  // thời gian chờ khi chuyển ảnh khi chạy tự động
 nav:false,
-	dots:true,// cho xuất hiện bộ nút tới lui 
+dots:true,// cho xuất hiện bộ nút tới lui 
 })
